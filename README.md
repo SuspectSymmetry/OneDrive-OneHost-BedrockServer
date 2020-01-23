@@ -30,5 +30,5 @@ This little program simply run the Bedrock server from OneDrive and closes it on
 
 ## Important
 * In order to host and play on the same machine, you will need to exempt the Minecraft client from UWP loopback restrictions. 
-You can use the following batch to quickly enable loopback: [LoopbackExempt.bat](https://github.com/SuspectSymmetry/OneDrive-Hosting-BedrockServer/blob/master/LoopbackExempt.bat). Once exempted, you don't need to run this ever again.
+You can use the following batch to quickly enable loopback: [LoopbackExempt.bat](https://github.com/migouelBL/OneDrive-Hosting-BedrockServer/blob/master/LoopbackExempt.bat). Once exempted, you don't need to run this ever again.
 * Whenever the hosting player quit the game you will be disconnected from the server, you can now go and host it yourself.

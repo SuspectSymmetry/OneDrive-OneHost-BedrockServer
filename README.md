@@ -16,7 +16,7 @@ This little program simply run the Bedrock server from OneDrive and closes it on
 
     ![Settings Window](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/Screenshots/Screenshot1.png)
 
-2. Save all of the [bedrock server files](https://www.minecraft.net/download/server/bedrock/) in that folder.
+2. Save all of the [bedrock server files](https://www.minecraft.net/en-us/download/server/bedrock/) in that folder.
 
     ![Settings Window](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/Screenshots/Screenshot2.png)
 

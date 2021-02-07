@@ -20,7 +20,7 @@ This little program simply run the Bedrock server from OneDrive and closes it on
 
     ![Settings Window](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/Screenshots/Screenshot2.png)
 
-3. Either wrap the [PowerShell](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/HostServer.ps1) or the [Autohotkey](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/HostServer.ahk) version and save it under that same folder.
+3. Either wrap the [PowerShell](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/Source/HostServer.ps1) or the [Autohotkey](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/Source/HostServer.ahk) version and save it under that same folder.
 
     ![Settings Window](https://github.com/migouelBL/OneDrive-Shared-BedrockServer/blob/master/Screenshots/Screenshot3.png)
 
